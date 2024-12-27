@@ -13,12 +13,13 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 
-```txt
-Python         1 hr 51 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
-C              1 hr 27 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
-Lua            1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-OCaml          1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
-Assembly       1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+```rust
+From: 25 May 2022 - To: 25 December 2024
+
+Total Time: 710 hrs 35 mins
+
+Python                428 hrs 11 mins >>>>>>>>>>>>>>-----------   54.44 %
+Other                 76 hrs 2 mins   >>-----------------------   09.67 %
 ```
 
 <!--END_SECTION:waka-->
