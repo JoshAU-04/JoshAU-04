@@ -11,6 +11,8 @@ JoshAU-04/JoshAU-04 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+📊 **Weekly development breakdown**
+
 <!--START_SECTION:waka-->
 
 ```rust
