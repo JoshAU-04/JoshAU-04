@@ -16,17 +16,16 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
-Total Time: 11 hrs 46 mins
+Total Time: 11 hrs 27 mins
 
-Python         3 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
-Lua            2 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
-OCaml          1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
-C++            44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-C              38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-Bash           32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Other          29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+Python         3 hrs 4 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
+Lua            2 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
+OCaml          1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
+C              38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Bash           32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Other          29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
 ```
 
 <!--END_SECTION:waka-->
