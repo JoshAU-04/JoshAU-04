@@ -16,15 +16,14 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2024 - To: 05 January 2025
+From: 30 December 2024 - To: 06 January 2025
 
-Total Time: 27 mins
+Total Time: 1 hr 1 min
 
-Bash           10 mins         █████████▒░░░░░░░░░░░░░░░   36.78 %
-conf           4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-JavaScript     3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-Lua            2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Other          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+TypeScript     23 mins         █████████░░░░░░░░░░░░░░░░   35.54 %
+JavaScript     11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
+Bash           10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
+Other          6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
 ```
 
 <!--END_SECTION:waka-->
