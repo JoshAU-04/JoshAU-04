@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on small projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can wiggle my ears
-- 📖 I have a [blog](https://joshau-04.github.io/JoshAU-04/)
+- 📖 I have a [blog](https://h4ppy-04.github.io/)
